@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kankuamoTraductor</string>
+
+    <string name="btn">hablar</string>
+    <string name="textoTraduci">traducido</string>
+    <string name="imagen1">imagen1</string>
+    <string name="espanol">Español</string>
+    <string name="kankuamo">Kankuamo</string>
+
+</resources>
